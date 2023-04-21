@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Queensides';
+    src: url('../fonts/Queensides.ttf');
+}
+
+@font-face {
+    font-family: 'Queensides Light';
+    src: url('../fonts/QueensidesLight.ttf');
+}
+
+@font-face {
+    font-family: 'Queensides Medium';
+    src: url('../fonts/QueensidesMedium.ttf');
+}
+
+body {
+	background : black;
+    color: white;
+    min-width: 400px;
+    font-family: 'Queensides';
+}       
+
+#carouselDark{
+
+}
+
+#title{
+    font-size: 84px;
+    font-family: 'Queensides';
+    text-align: center;
+    color: white;
+}
+
+#description{
+    text-align: center;
+    font-size: 22px;
+}
+
+#contact{
+    text-align: center;
+    font-size: 16px;
+}
